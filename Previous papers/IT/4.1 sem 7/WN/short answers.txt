@@ -1,0 +1,44 @@
+1.hidden and exposed terminal in mobile communication
+  Hidden terminals are created if carrier sense threshold is too high, whereas exposed terminals    are created if carrier sense threshold is too low.
+
+2.define multiplexing in mobile computing
+  Multiplexing is a method that can be used to combine multiple analog or digital signals into one signal over a shared medium
+
+3.what is polling in mobile computing
+ polling or a polled operation denotes the process of repeatedly sampling the status of external devices by a client program
+
+4.What Does Handover Mean?
+   handover is a process in telecommunications and mobile communications in which a connected cellular call or a data session is transferred from one cell site (base station) to another without disconnecting the session
+
+5.Carrier Sense Multiple Access (CSMA)
+  This method was developed to decrease the chances of collisions when two or more stations start sending their signals over the data link layer. Carrier Sense multiple access requires that each station first check the state of the medium before sending. 
+
+6.define isotropic antenna
+  An isotropic antenna is a theoretical antenna that radiates equally in all directions - horizontally and vertically with the same intensity. The antenna has a gain of 1 (0 dB) in the spherical space all around it and has an efficiency of 100%. An isotropic antenna is used as a reference antenna to evaluate antenna gain.
+  
+7.what is an adhoc wireless network
+  A wireless network that allows easy connection establishment between wireless client devices in the same physical area without the use of an infrastructure device, such as an access point or a base station.
+
+8.what is co located care of address
+  Co-located care-of address enables a mobile node to function without a foreign agent
+
+9.two functions of mac management layer of IEEE
+  The IEEE 802.11 MAC layer covers three functional areas: reliable data delivery, access control, and security.
+
+10.Use of dhcp service
+  Dynamic Host Configuration Protocol (DHCP) is a network protocol used to automate the process of configuring devices on IP networks
+
+11.driving factors for 5g cellular network
+  Private cellular network. ...
+Ultra-high reliability. ...
+Accurate position tracking. ...
+High Security. ...
+Multipath for data transmission. ...
+Quality of data transmission. ...
+
+12.what is volte network
+  VoLTE stands for Voice over Long-Term Evolution or Voice over LTE.
+  
+  
+  
+  
